@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariel-fu | Ariel Fu
-- 👀 I’m interested in improving gender equality in education
-- 🌱 I’m currently learning how to process large data bases, React + Reduct, Android app development, and an agile software development environment
+- 👀 I’m interested in improving gender equality in education.
+- 🌱 I’m currently learning how to process large data bases, utilize React + Reduct, develop Android apps with Java, and how to work in an agile software development environment.
 - 📫 How to reach me:
   Email: ariel.fu@gmail.com
   Twitter: @lifewitharielfu
