@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ariel-fu | Ariel Fu
-- 👀 I’m interested in empowering all genders in education through artificial intelligence
+- 👀 I’m interested in improving gender equality in education
 - 🌱 I’m currently learning how to process large data bases, React + Reduct, Android app development, and an agile software development environment
 - 📫 How to reach me:
   Email: ariel.fu@gmail.com
